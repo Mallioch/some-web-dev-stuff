@@ -13,5 +13,3 @@ Hi. My name is [Eric Sowell](http://ericsowell.com) and I teach a front-end engi
 
 * [General Layout Resources](/css/general-layout-resources)
 * [Odds and Ends](/css/layout-odds-and-ends)
-
-(yaml version)
